@@ -1,0 +1,17 @@
+ABOUT
+
+input cyrylic text with ease
+
+REQUIREMENTS
+
+- tk-capable python3
+- pip install --user -r requirements.txt
+
+or (on windows) just download a pre-compiled binary (win7+): https://pub.krzysckh.org/cinput.exe
+
+USAGE
+
+- $ python3 cinput.py
+- (type stuff in)
+- RET
+- (paste somewhere)
