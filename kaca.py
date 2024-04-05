@@ -50,7 +50,7 @@ def main():
   sv = tkinter.StringVar()
   cyrylic_sv = tkinter.StringVar()
 
-  root.title("cinput")
+  root.title("kaca.py")
   root.resizable(width=False, height=False)
 
   inp = ttk.Entry(master=root, textvariable=sv)
